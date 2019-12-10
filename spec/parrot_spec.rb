@@ -24,5 +24,3 @@ describe '#parrot' do
   end
 end
 
-def #parrot(Squawk)
-end
